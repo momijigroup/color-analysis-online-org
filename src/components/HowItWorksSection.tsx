@@ -9,18 +9,18 @@ import { usePathname } from 'next/navigation'
 const steps = [
   {
     icon: <Camera className="w-6 h-6" />,
-    title: 'Share Your Beautiful Self',
-    description: 'Answer some fun questions about yourself or share a photo - it takes just 5 minutes and feels like chatting with a friend!',
+    title: 'Submit Your Information',
+    description: 'Complete a comprehensive assessment questionnaire or submit a photograph - the process takes approximately 5 minutes.',
   },
   {
     icon: <Sparkles className="w-6 h-6" />,
-    title: 'AI Magic Happens',
-    description: 'Our smart AI lovingly analyzes your gorgeous features to discover your perfect color season and the shades that make you shine.',
+    title: 'AI Analysis Processing',
+    description: 'Advanced AI algorithms analyze your individual characteristics to determine your optimal color season and recommendations.',
   },
   {
     icon: <Palette className="w-6 h-6" />,
-    title: 'Get Your Color Magic',
-    description: 'Receive your beautiful personalized color palette and styling tips that will make you feel absolutely radiant!',
+    title: 'Receive Your Results',
+    description: 'Access your personalized color palette and professional styling recommendations based on scientific color analysis.',
   },
 ]
 
@@ -33,10 +33,10 @@ export default function HowItWorksSection() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4">
-            How Our <span className="gradient-text">Color Magic</span> Works
+            How Our <span className="gradient-text">Analysis Process</span> Works
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Three delightful steps to discover your perfect colors - no experience needed, just bring your beautiful self!
+            Three systematic steps to determine your optimal color palette - professional analysis made accessible and efficient.
           </p>
           <div className="block lg:hidden mt-6">
             <div className="p-2 bg-white rounded-2xl shadow-lg hover-scale max-w-md mx-auto">

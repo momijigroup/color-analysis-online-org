@@ -3,23 +3,23 @@ import { Palette, Sparkles, Wand2, Heart } from 'lucide-react'
 const features = [
   {
     icon: <Sparkles className="w-6 h-6" />,
-    title: 'Smart AI Beauty Analysis',
-    description: 'Our friendly AI carefully analyzes your gorgeous, unique features to find the colors that make you look absolutely stunning.',
+    title: 'Advanced AI Analysis',
+    description: 'Sophisticated AI technology analyzes your individual characteristics to determine optimal color recommendations with precision.',
   },
   {
     icon: <Palette className="w-6 h-6" />,
-    title: 'Your Perfect Color Palette',
-    description: 'Get a beautiful, personalized color collection based on your lovely skin tone, hair color, and gorgeous eyes.',
+    title: 'Personalized Color Palette',
+    description: 'Receive a comprehensive color collection tailored to your specific skin tone, hair color, and eye characteristics.',
   },
   {
     icon: <Wand2 className="w-6 h-6" />,
-    title: 'Beautiful Style Guidance',
-    description: 'Discover amazing recommendations for makeup, outfits, and accessories that enhance your natural beauty.',
+    title: 'Professional Style Guidance',
+    description: 'Access expert recommendations for makeup, wardrobe, and accessories based on professional color theory.',
   },
   {
     icon: <Heart className="w-6 h-6" />,
-    title: 'Inspiring Style Resources',
-    description: 'Beautiful visual guides and styling tips to help you feel confident and radiant in your perfect colors.',
+    title: 'Comprehensive Style Resources',
+    description: 'Detailed visual guides and professional styling recommendations for effective color palette implementation.',
   },
 ]
 
@@ -34,10 +34,10 @@ const FeaturesSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
-            Create Your <span className="gradient-text">Beautiful Color Story</span>
+            Professional <span className="gradient-text">Color Assessment</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            We combine smart AI technology with color expertise to help you discover the colors that celebrate your unique beauty and make you feel amazing.
+            Advanced AI technology combined with professional color expertise provides comprehensive personal color analysis and recommendations.
           </p>
         </div>
 

@@ -144,10 +144,10 @@ const TestimonialsSection = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Beautiful <span className="gradient-text">Success Stories</span>
+            Professional <span className="gradient-text">Client Results</span>
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Over 355,000 amazing women have discovered their perfect colors and are glowing with confidence every day!
+            Over 355,000 professionals have utilized our color analysis service to enhance their personal presentation and confidence.
           </p>
         </div>
         <div className="flex justify-center items-center gap-4">

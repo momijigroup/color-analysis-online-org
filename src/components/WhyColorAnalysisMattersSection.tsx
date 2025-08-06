@@ -13,7 +13,7 @@ const WhyColorAnalysisMattersSection = () => (
         {/* Left: Text */}
         <div>
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-800 mb-4">
-            Why <span className="gradient-text">Finding Your Colors</span> Changes Everything
+            Why <span className="gradient-text">Professional Color Analysis</span> Matters
           </h2>
           {/* Mobile image after heading */}
           <div className="block md:hidden mb-4">
@@ -31,24 +31,24 @@ const WhyColorAnalysisMattersSection = () => (
             </div>
           </div>
           <p className="text-gray-600 mb-6">
-            When you wear colors that love you back, magic happens! You'll glow with confidence and feel absolutely beautiful. Here's what you can expect:
+            Professional color analysis provides measurable benefits for personal presentation and confidence. Key advantages include:
           </p>
           <ul className="space-y-3">
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✨</span>
-              <span className="text-gray-700">Your skin will look radiant and naturally glowing</span>
+              <span className="text-gray-700">Enhanced skin appearance and natural complexion optimization</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✨</span>
-              <span className="text-gray-700">Shopping becomes fun and easy when you know your perfect colors</span>
+              <span className="text-gray-700">Streamlined wardrobe selection based on professional color guidelines</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✨</span>
-              <span className="text-gray-700">Every outfit will feel harmonious and effortlessly chic</span>
+              <span className="text-gray-700">Coordinated styling approach for consistent professional appearance</span>
             </li>
             <li className="flex items-start text-brand-plum">
               <span className="mr-2 mt-1">✨</span>
-              <span className="text-gray-700">You'll feel confident and beautiful every single day</span>
+              <span className="text-gray-700">Increased confidence through scientifically-backed color recommendations</span>
             </li>
           </ul>
         </div>

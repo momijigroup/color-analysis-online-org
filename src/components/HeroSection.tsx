@@ -39,10 +39,10 @@ const HeroSection = () => {
           {/* Left: Content (mobile: after image) */}
           <div className="order-2 lg:order-1">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight mt-2 mb-1 lg:mb-8">
-              Discover the <span className="gradient-text">Colors That Make You Shine</span> with <span className="gradient-text">AI Magic</span>
+              Professional <span className="gradient-text">Color Analysis</span> with <span className="gradient-text">AI Technology</span>
             </h1>
             <p className="text-base md:text-lg text-gray-600 max-w-lg mb-4 lg:mb-12">
-              Let our friendly AI analyze your beautiful, unique features to reveal your perfect color palette. Get personalized color recommendations that will make you feel absolutely radiant every day!
+              Advanced AI technology analyzes your individual characteristics to determine your optimal color palette. Receive comprehensive color recommendations based on professional color theory and analysis.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href={quizUrl} legacyBehavior>
@@ -70,7 +70,7 @@ const HeroSection = () => {
                 <Star className="w-5 h-5 text-yellow-400 fill-current" />
                 <StarHalf className="w-5 h-5 text-yellow-400 fill-current" />
               </div>
-              <span className="text-xs md:text-sm">Loved by 355,000+ women worldwide</span>
+              <span className="text-xs md:text-sm">Trusted by 355,000+ professionals worldwide</span>
             </div>
           </div>
           {/* Right: Image (desktop only) */}
