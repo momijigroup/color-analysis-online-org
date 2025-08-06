@@ -4,18 +4,18 @@ import { Eye, BrainCircuit, Palette } from 'lucide-react'
 const technologies = [
   {
     icon: <Eye className="w-6 h-6" />,
-    title: 'Advanced Vision Analysis',
-    description: 'AI algorithms analyze skin tone, contrast levels, and natural brightness characteristics',
+    title: 'Smart Beauty Recognition',
+    description: 'Our AI lovingly analyzes your gorgeous skin tone, natural contrast, and beautiful brightness',
   },
   {
     icon: <BrainCircuit className="w-6 h-6" />,
-    title: 'Machine Learning Technology',
-    description: 'System trained on extensive database of professional color analyses for optimal accuracy',
+    title: 'Intelligent Color Matching',
+    description: 'Trained on thousands of real women to understand what colors make each person truly shine',
   },
   {
     icon: <Palette className="w-6 h-6" />,
-    title: 'Professional Color Theory',
-    description: 'Based on established methodologies from certified color consultants and styling professionals',
+    title: 'Expert Color Wisdom',
+    description: 'Based on trusted color theory from professional stylists who know what makes women look amazing',
   },
 ]
 
@@ -42,10 +42,10 @@ const TechnologySection = () => {
           <div className="space-y-8">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                <span className="gradient-text">Advanced AI Technology</span> for <span className="gradient-text">Precise Color Analysis</span>
+                <span className="gradient-text">Smart AI Technology</span> That <span className="gradient-text">Celebrates Your Beauty</span>
               </h2>
               <p className="text-lg text-gray-600">
-                Our platform integrates advanced AI vision technology, machine learning algorithms, and professional color theory to deliver accurate color analysis results.
+                We've created a caring AI that understands beauty in all its forms, combining smart technology with color expertise to help you discover the colors that make you absolutely radiant.
               </p>
             </div>
 

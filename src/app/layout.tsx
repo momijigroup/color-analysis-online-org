@@ -11,10 +11,10 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Professional AI Color Analysis | Determine Your Optimal Color Palette',
+    default: 'Discover Your Perfect Colors | AI-Powered Color Analysis for Beautiful You',
     template: '%s | Color Analysis Pro'
   },
-  description: "Determine your optimal color palette through advanced AI-powered color analysis. Receive comprehensive color recommendations based on your unique features and undertones. Trusted by over 355,000 users worldwide.",
+  description: "Discover the colors that make you shine! Our friendly AI analyzes your unique beauty to reveal your perfect color palette. Join 355,000+ women who've found their most flattering colors and feel confident every day.",
   keywords: ['color analysis', 'seasonal color analysis', 'what season am i', 'color season quiz', 'AI color analysis', 'personal color palette'],
   authors: [{ name: 'Color Analysis Pro' }],
   creator: 'Color Analysis Pro',
@@ -29,8 +29,8 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://color-analysis.pro',
-    title: 'Professional AI Color Analysis | Determine Your Optimal Color Palette',
-    description: "Determine your optimal color palette through advanced AI-powered color analysis. Receive comprehensive color recommendations based on your unique features and undertones. Trusted by over 355,000 users worldwide.",
+    title: 'Discover Your Perfect Colors | AI-Powered Color Analysis for Beautiful You',
+    description: "Discover the colors that make you shine! Our friendly AI analyzes your unique beauty to reveal your perfect color palette. Join 355,000+ women who've found their most flattering colors and feel confident every day.",
     siteName: 'Color Analysis Pro',
     images: [
       {
@@ -43,8 +43,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Professional AI Color Analysis | Determine Your Optimal Color Palette',
-    description: "Determine your optimal color palette through advanced AI-powered color analysis. Receive comprehensive color recommendations based on your unique features and undertones. Trusted by over 355,000 users worldwide.",
+    title: 'Discover Your Perfect Colors | AI-Powered Color Analysis for Beautiful You',
+    description: "Discover the colors that make you shine! Our friendly AI analyzes your unique beauty to reveal your perfect color palette. Join 355,000+ women who've found their most flattering colors and feel confident every day.",
     images: ['/lovable-uploads/og-image.png'],
     creator: '@coloranalysis',
     site: '@coloranalysis',
@@ -76,15 +76,15 @@ export default function RootLayout({
   const webpageJsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Professional AI Color Analysis | Determine Your Optimal Color Palette",
-    "description": "Determine your optimal color palette through advanced AI-powered color analysis. Receive comprehensive color recommendations based on your unique features and undertones. Trusted by over 355,000 users worldwide.",
+    "name": "Discover Your Perfect Colors | AI-Powered Color Analysis for Beautiful You",
+    "description": "Discover the colors that make you shine! Our friendly AI analyzes your unique beauty to reveal your perfect color palette. Join 355,000+ women who've found their most flattering colors and feel confident every day.",
     "url": "https://color-analysis.pro/",
     "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
       "name": "Color Analysis Pro",
       "url": "https://color-analysis.pro",
-              "description": "Professional AI-powered color analysis system for determining optimal personal color palettes",
+              "description": "Friendly AI-powered color analysis that helps you discover your most beautiful colors",
       "publisher": {
         "@type": "Organization",
         "name": "Color Analysis Pro",
@@ -110,7 +110,7 @@ export default function RootLayout({
       "width": 64,
       "height": 64
     },
-    "description": "Professional color analysis services utilizing advanced AI technology to determine optimal personal color palettes",
+    "description": "Friendly color analysis services that help women discover their most beautiful and flattering colors with AI",
     "sameAs": [
       "https://twitter.com/coloranalysis"
     ],

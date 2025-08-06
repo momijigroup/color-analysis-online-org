@@ -6,37 +6,37 @@ const faqs = [
   {
     question: "What is AI color analysis?",
     answer:
-      "AI color analysis utilizes advanced algorithms to evaluate your unique features and determine optimal color selections. Our system analyzes skin tone, eye color, and hair color to generate a personalized color palette tailored to your specific characteristics.",
+      "AI color analysis is like having a personal color expert who studies your beautiful features and finds the colors that make you look absolutely stunning! Our friendly AI looks at your skin tone, gorgeous eyes, and hair color to create a personalized color palette that celebrates your unique beauty.",
   },
   {
     question: "How does the color palette quiz work?",
     answer:
-      "The assessment process involves responding to comprehensive questions about your features and preferences, or uploading a photograph. Our AI technology processes this information to generate a customized color palette suitable for clothing, makeup, and styling applications.",
+      "It's so easy and fun! You'll answer some questions about yourself (like chatting with a friend) or share a photo. Our smart AI then works its magic to create a beautiful color palette perfect for your clothes, makeup, and style - it's like getting a personal stylist!",
   },
   {
     question: "Why should I use an AI stylist for color analysis?",
     answer:
-      "Our AI system has been trained on extensive datasets from professional color consultants and can identify subtle details about your coloring with high precision. This provides you with professional-grade color analysis results available instantly.",
+      "Our AI has learned from thousands of professional color experts and has helped over 355,000 women discover their perfect colors! It can spot the subtle details that make certain colors absolutely perfect for you, giving you professional results instantly.",
   },
   {
     question: "What is a personal color palette?",
     answer:
-      "A personal color palette is a curated collection of colors specifically selected to complement your natural features. These colors are determined based on your unique skin tone, hair color, and eye color to enhance your overall appearance.",
+      "Your personal color palette is your collection of 'magic colors' - the shades that were practically made for you! These colors are chosen specifically to make your skin glow, your eyes sparkle, and your natural beauty shine through effortlessly.",
   },
   {
     question: "Can I trust online color analysis results?",
     answer:
-      "Our AI system has been validated through analysis of over 355,000 users and demonstrates high accuracy rates. The system has been refined to provide reliable color recommendations that you can confidently implement in your styling choices.",
+      "Absolutely! Our AI has helped over 355,000 women find their perfect colors with amazing results. We've spent years perfecting our system to give you reliable, beautiful color recommendations that you can trust and love.",
   },
   {
     question: "Do I need to upload a photo for color analysis?",
     answer:
-      "Photo upload is optional for the analysis process. While comprehensive results can be obtained through questionnaire responses alone, uploading a photograph allows for more precise analysis of your unique features and undertones.",
+      "Not at all! While sharing a photo can help us give you even more personalized results, you can get amazing color recommendations just by answering our fun questions. Choose whatever feels most comfortable for you!",
   },
   {
     question: "How can knowing my best colors improve my style?",
     answer:
-      "Understanding your optimal color palette streamlines the selection process for clothing and accessories, resulting in a more cohesive wardrobe. This knowledge enables more confident styling choices and ensures consistent enhancement of your natural features.",
+      "When you know your perfect colors, everything becomes easier and more fun! Shopping becomes a breeze, getting dressed feels effortless, and you'll feel confident and beautiful every single day. Your colors will work together beautifully, making you glow with confidence!",
   }
 ];
 

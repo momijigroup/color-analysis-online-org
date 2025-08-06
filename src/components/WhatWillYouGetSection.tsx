@@ -3,43 +3,43 @@ import { Palette, Droplet, Layers, Star, Info, Lightbulb, Sparkles, Eye } from '
 const items = [
   {
     icon: <Palette className="w-7 h-7 text-brand-plum" />, 
-    title: 'Color Season Classification',
-    description: 'Identification of your specific color season within the 12-season system'
+    title: 'Your Beautiful Color Season',
+    description: 'Discover which of the 12 gorgeous color seasons celebrates your unique beauty'
   },
   {
     icon: <Droplet className="w-7 h-7 text-brand-plum" />, 
-    title: 'Undertone Analysis',
-    description: 'Determination of your warm, cool, or neutral undertone classification'
+    title: 'Your Lovely Undertones',
+    description: 'Learn whether you have warm, cool, or neutral undertones and what that means for you'
   },
   {
     icon: <Layers className="w-7 h-7 text-brand-plum" />, 
-    title: 'Contrast & Depth Assessment',
-    description: 'Analysis of your natural contrast levels and optimal color intensity'
+    title: 'Your Perfect Contrast Level',
+    description: 'Find out your natural contrast and the color intensity that makes you glow'
   },
   {
     icon: <Star className="w-7 h-7 text-brand-plum" />, 
-    title: 'Optimal Color Palette',
-    description: 'Comprehensive selection of colors that enhance your natural features'
+    title: 'Your Dream Color Palette',
+    description: 'A gorgeous collection of colors handpicked to make you look absolutely radiant'
   },
   {
     icon: <Info className="w-7 h-7 text-brand-plum" />, 
-    title: 'Color Theory Explanation',
-    description: 'Scientific rationale behind your personalized color recommendations'
+    title: 'Why These Colors Love You',
+    description: 'Easy-to-understand explanations about why these specific colors are perfect for you'
   },
   {
     icon: <Lightbulb className="w-7 h-7 text-brand-plum" />, 
-    title: 'Application Guidelines',
-    description: 'Professional guidance for implementing your color palette effectively'
+    title: 'Simple Style Tips',
+    description: 'Friendly, easy-to-follow guidance on how to use your colors in everyday life'
   },
   {
     icon: <Sparkles className="w-7 h-7 text-brand-plum" />, 
-    title: 'Styling Recommendations',
-    description: 'Customized styling suggestions based on your color profile'
+    title: 'Personalized Style Ideas',
+    description: 'Beautiful styling suggestions created just for you and your color personality'
   },
   {
     icon: <Eye className="w-7 h-7 text-brand-plum" />, 
-    title: 'Virtual Color Preview',
-    description: 'Digital visualization of color applications and combinations'
+    title: 'See Your Colors in Action',
+    description: 'Visual examples showing how amazing these colors will look on you'
   },
 ]
 
@@ -53,7 +53,7 @@ const WhatWillYouGetSection = () => (
     <div className="container mx-auto px-4 sm:px-6 lg:px-8">
       <div className="text-center mb-16">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-          Comprehensive Analysis Components
+          Everything You'll Love About Your Results
         </h2>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">

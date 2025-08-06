@@ -18,7 +18,7 @@ const UserStatsSection = () => (
         </div>
       </div>
       <div className="text-center text-gray-700 text-lg max-w-2xl">
-        Professional color analysis services trusted by thousands of users worldwide for enhanced appearance and presentation.
+        A beautiful community of women worldwide who have discovered their perfect colors and are living their most confident lives.
       </div>
     </div>
   </section>

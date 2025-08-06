@@ -13,7 +13,7 @@ const WhyColorAnalysisMattersSection = () => (
         {/* Left: Text */}
         <div>
           <h2 className="text-3xl md:text-4xl font-extrabold text-gray-800 mb-4">
-            The Importance of <span className="gradient-text">Professional Color Analysis</span>
+            Why <span className="gradient-text">Finding Your Colors</span> Changes Everything
           </h2>
           {/* Mobile image after heading */}
           <div className="block md:hidden mb-4">
@@ -31,24 +31,24 @@ const WhyColorAnalysisMattersSection = () => (
             </div>
           </div>
           <p className="text-gray-600 mb-6">
-            Utilizing colors that complement your natural features enhances your appearance and professional presence. Key benefits include:
+            When you wear colors that love you back, magic happens! You'll glow with confidence and feel absolutely beautiful. Here's what you can expect:
           </p>
           <ul className="space-y-3">
             <li className="flex items-start text-brand-plum">
-              <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Enhanced natural skin tone and overall appearance</span>
+              <span className="mr-2 mt-1">✨</span>
+              <span className="text-gray-700">Your skin will look radiant and naturally glowing</span>
             </li>
             <li className="flex items-start text-brand-plum">
-              <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Streamlined shopping process with targeted color selections</span>
+              <span className="mr-2 mt-1">✨</span>
+              <span className="text-gray-700">Shopping becomes fun and easy when you know your perfect colors</span>
             </li>
             <li className="flex items-start text-brand-plum">
-              <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Cohesive wardrobe coordination and color harmony</span>
+              <span className="mr-2 mt-1">✨</span>
+              <span className="text-gray-700">Every outfit will feel harmonious and effortlessly chic</span>
             </li>
             <li className="flex items-start text-brand-plum">
-              <span className="mr-2 mt-1">✔</span>
-              <span className="text-gray-700">Consistent professional and polished appearance</span>
+              <span className="mr-2 mt-1">✨</span>
+              <span className="text-gray-700">You'll feel confident and beautiful every single day</span>
             </li>
           </ul>
         </div>
